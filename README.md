@@ -15,3 +15,10 @@ Graphics card optimization.
 Disable power saving in graphics.
 
 Prioritize games to increase fps and reduce lag.
+
+<h1 align="center">Hi 👋, I'm Sofia</h1>
+<h3 align="center">Added sections:</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
