@@ -5,7 +5,7 @@
 https://discord.gg/ypKApqjMVv
 
 <h1 align="center"></h1>
-<h3 align="center">what WG Optimizer does do</h3>
+<h3 align="center">🤔what WG Optimizer does do?</h3>
 
 - Increase fps.
 - Reduce system latency.
