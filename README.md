@@ -1,12 +1,4 @@
-[WG](https://user-images.githubusercontent.com/132106663/235263623-8cf42e97-c292-4686-a99a-de1599e7de55.png)
-What this tool do?
-
-sed privacy.
-
-Reduce latency.
-
-Increase fps.
-
+![image](https://user-images.githubusercontent.com/132106663/235263725-a9c94cbf-2d04-4ee2-9fdb-4fcdf2df9df8.png)
 
 Added sections:
 
