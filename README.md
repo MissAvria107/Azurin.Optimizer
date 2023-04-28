@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 <h3 align="center">An open and transparent tool, designed to optimize performance, privacy and stability.
 </h3>
-https://discord.gg/ypKApqjMVv
+-[Discord](https://discord.gg/Ve6jd9nFRy)
 
 <h1 align="center"></h1>
 <h3 align="center">🤔what WG Optimizer does do?</h3>
