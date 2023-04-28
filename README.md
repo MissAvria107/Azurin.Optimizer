@@ -1,17 +1,17 @@
 ![image](https://user-images.githubusercontent.com/132106663/235265368-002b8b5b-5624-493f-94df-d3eba55338a2.png)
-<h1 align="center">WG Optimize .</h1>
-<h3 align="center">Why WG Optimizer</h3>
+<h1 align="center"></h1>
+<h3 align="center">Added sections:</h3>
 
-- Windows optimization. **.**
+- Windows optimization.
 
-- Internet optimization. **.**
+- Internet optimization.
 
-- Clearing Windows and Internet caches. **.**
+- Clearing Windows and Internet caches.
 
-- Disable power saving in gpus [.](.)
+- Disable power saving in gpus.
 
-- Prioritize games to increase fps and reduce lag. [.](.)
+- Prioritize games to increase fps and reduce lag.
 
-- Disabling Windows services. **.**
+- Disabling Windows services.
 
-- gpus optimization. **.**
+- gpus optimization.
