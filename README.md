@@ -7,7 +7,8 @@ https://discord.gg/ypKApqjMVv
 <h1 align="center"></h1>
 <h3 align="center">🤔what WG Optimizer does do?</h3>
 
-- Increase fps.
+- Increase performance.
 - Reduce system latency.
 - Reduce internet latency.
 - Reduce cpu and ram usage.
+- Better input lag
