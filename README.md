@@ -9,4 +9,5 @@ Clearing Windows and Internet caches.
 Disabling Windows services.
 Graphics card optimization.
 Disable power saving in graphics.
+
 Prioritize games to increase fps and reduce lag.
