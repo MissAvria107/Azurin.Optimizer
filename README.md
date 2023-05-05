@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/132106663/236480211-479043f9-d65a-439a-8ca3-c335663ba66d.jpg
+![qsjk0txF_2x](https://user-images.githubusercontent.com/132106663/236480470-620c79b3-da34-47c3-8143-654c36ceafea.jpg)
 <h1 align="center"></h1>
 
 <div align="center">
