@@ -1,4 +1,4 @@
-![qsjk0txF_2x](https://user-images.githubusercontent.com/132106663/236480470-620c79b3-da34-47c3-8143-654c36ceafea.jpg)
+![qsjk0txF_2x](https://user-images.githubusercontent.com/132106663/236639761-10b05693-7301-4498-a483-b073e464a95e.png)
 <h1 align="center"></h1>
 
 <div align="center">
