@@ -2,7 +2,7 @@
 <h1 align="center"></h1>
 
 <div align="center">
-<h3 align="center">An open and transparent tool, designed to optimize performance, privacy and stability.
+<h3 align="center">designed to optimize performance, privacy and stability.
 <div align="center">
 
 <h1 align="center"></h1>
