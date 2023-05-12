@@ -10,7 +10,7 @@
 <h4 align="center">An open and transparent Tool, designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
-  <a href="Sofia The Rabbit#9300">My discord ID</a>
+  <a href="https://discord-avatar.com/en/user/874867657323712534">My discord ID</a>
   •
   <a href="https://discord.gg/Ve6jd9nFRy" target="_blank">Discord</a>
   •
