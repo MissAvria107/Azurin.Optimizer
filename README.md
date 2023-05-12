@@ -21,7 +21,7 @@
 
 A open source batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and better performance.
 
-## 👀 **Why WG Optimizer?**
+## 🤔 **Why WG Optimizer?**
 
 ### 🚀 More performance
 
