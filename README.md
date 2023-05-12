@@ -9,7 +9,7 @@
       <img alt="Release Downloads" src="https://img.shields.io/github/downloads/Atlas-OS/Atlas/total?style=for-the-badge&logo=github&color=1A91FF" />
     </a>
   </p>
-<h4 align="center">An open and transparent operating system, designed to optimize performance, privacy and stability.</h4>
+<h4 align="center">An open and transparent Tool, designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
   <a href="Sofia The Rabbit#9300">My discord ID</a>
@@ -19,7 +19,7 @@
   <a href="https://github.com/SofiaTheRabbit905" target="_blank">Github</a>
 </p>
 
-## 🤔 **What is Atlas?**
+## 🤔 **What is WG Optimizer?**
 
 A open source batch file that has been tried to have the best and safest tweaks to optimize your Windows game and daily uses so that you have less latency and performance.
 
@@ -30,7 +30,7 @@ A open source batch file that has been tried to have the best and safest tweaks 
   - [Forums](https://docs.atlasos.net/faq/community/forums)
   - [GitHub](https://docs.atlasos.net/faq/community/github)
 
-## 👀 **Why Atlas?**
+## 👀 **Why WG Optimizer?**
 
 ### 🚀 More performance
 Increase Windows performance
