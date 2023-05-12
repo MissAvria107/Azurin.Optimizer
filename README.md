@@ -18,13 +18,11 @@
 <h4 align="center">An open and transparent operating system, designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
-  <a href="https://atlasos.net">Website</a>
+  <a href="Sofia The Rabbit#9300">My discord ID</a>
   •
-  <a href="https://docs.atlasos.net">Documentation</a>
+  <a href="https://discord.gg/Ve6jd9nFRy" target="_blank">Discord</a>
   •
-  <a href="https://discord.atlasos.net" target="_blank">Discord</a>
-  •
-  <a href="https://forum.atlasos.net">Forum</a>
+  <a href="https://github.com/SofiaTheRabbit905" target="_blank">Github</a>
 </p>
 
 # Translations
