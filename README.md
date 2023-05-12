@@ -33,6 +33,7 @@ A open source batch file that has been tried to have the best and safest tweaks 
 ## 👀 **Why WG Optimizer?**
 
 ### 🚀 More performance
+
 Increase Windows performance
 Better input
 Less internet latency
@@ -40,6 +41,8 @@ Less Windows latency
 lower lag and higher fps
 
 
-### 🛡️ Open source And Safe
+### 🛡️ Open source and Safe
 
-most people who do these things don't even know what tweaks do, they just find their processes and put them in a tool.
+There are many people who use random tweaks and it causes their windows break, we have tried to get them away from these problems.
+Open source. We strive to improve ourselves and others by sharing and discussing tweaks to help the gaming community.
+people who share encrypted batches, they do not do any research and put random tweaks in a batch (our experience)
