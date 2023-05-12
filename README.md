@@ -27,9 +27,9 @@ A open source batch file that has been tried to have the best and safest tweaks 
 
 - Increase Windows performance
 - Better input
-Less internet latency
-Less Windows latency
-lower lag and higher fps
+- Less internet latency
+- Less Windows latency
+- lower lag and higher fps
 
 
 ### 🛡️ Open source and Safe
