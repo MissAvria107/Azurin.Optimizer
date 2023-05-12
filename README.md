@@ -21,7 +21,7 @@
 
 ## 🤔 **What is WG Optimizer?**
 
-A open source batch file that has been tried to have the best and safest tweaks to optimize your Windows game and daily uses so that you have less latency and performance.
+A open source batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and better performance.
 
 ## 📚 **Table of contents**
 
