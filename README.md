@@ -23,13 +23,6 @@
 
 A open source batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and better performance.
 
-## 📚 **Table of contents**
-
-- FAQ
-  - [Discord](https://docs.atlasos.net/faq/community/discord)
-  - [Forums](https://docs.atlasos.net/faq/community/forums)
-  - [GitHub](https://docs.atlasos.net/faq/community/github)
-
 ## 👀 **Why WG Optimizer?**
 
 ### 🚀 More performance
