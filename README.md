@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://atlasos.net"><img src="https://gcore.jsdelivr.net/gh/Atlas-OS/Atlas@main/img/banner.png" alt="Atlas" width="900" style="border-radius: 30px"></a>
+  <a href="https://github.com/SofiaTheRabbit905"><img src="https://github.com/SofiaTheRabbit905/WG.Optimizer/assets/132106663/50b1a492-15ef-42a9-a55f-003e02df230f" alt="Atlas" width="900" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
     <a href="https://github.com/Atlas-OS/Atlas/graphs/contributors">
