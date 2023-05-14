@@ -32,7 +32,6 @@ A open source batch file that has been tried to have the best and safest tweaks 
 
 
 ### 🛡️ Open source and Safe
-- There are many people who use random tweaks and it causes their windows break, we have tried to get them away from these problems.
-- there are still those who apply bad tweaks and this makes experience more lag and worse performance
+- There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
 - Open source, we strive to improve ourselves and others by sharing and discussing tweaks to help the gaming community.
 - People who share encrypted batches, they do not do any research and put random tweaks in a batch (our experience)
