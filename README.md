@@ -28,3 +28,12 @@ A open source batch file that has been tried to have the best and safest tweaks 
 - There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
 - Open source, we strive to improve ourselves and others by sharing and discussing tweaks to help the gaming community.
 - People who share encrypted batches, they do not do any research and put random tweaks in a batch (our experience)
+
+### ✅ Tweak list
+Windows
+internet
+Services
+Drivers
+Game Booster
+GPU
+CPU
