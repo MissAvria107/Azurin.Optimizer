@@ -30,10 +30,10 @@ A open source batch file that has been tried to have the best and safest tweaks 
 - People who share encrypted batches, they do not do any research and put random tweaks in a batch (our experience)
 
 ### ✅ Tweak list
-Windows
-internet
-Services
-Drivers
-Game Booster
-GPU
-CPU
+- Windows
+- internet
+- Services
+- Drivers
+- Game Booster
+- GPU
+- CPU
