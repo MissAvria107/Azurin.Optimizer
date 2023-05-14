@@ -1,12 +1,5 @@
 <h1 align="center">
   <a href="https://github.com/SofiaTheRabbit905"><img src="https://github.com/SofiaTheRabbit905/WG.Optimizer/assets/132106663/50b1a492-15ef-42a9-a55f-003e02df230f" alt="Atlas" width="900" style="border-radius: 30px"></a>
-</h1>
-  <p align="center">
-    </a>
-    <a href="https://github.com/SofiaTheRabbit905/WG.Optimizer/releases">
-      <img alt="Release Downloads" src="https://img.shields.io/github/downloads/Atlas-OS/Atlas/total?style=for-the-badge&logo=github&color=1A91FF" />
-    </a>
-  </p>
 <h4 align="center">An open and transparent Tool, designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
