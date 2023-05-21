@@ -34,3 +34,8 @@ A open source batch file that has been tried to have the best and safest tweaks 
 - Game Booster
 - GPU
 - CPU
+- Timer Resolution
+- Power Plan
+- Dns
+- Hosts file
+- Qos Tweaks
