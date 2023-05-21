@@ -31,7 +31,7 @@ A open source batch file that has been tried to have the best and safest tweaks 
 - internet
 - Services
 - Drivers
-- Game Booster
+- Advance game booster
 - GPU
 - CPU
 - Timer Resolution
