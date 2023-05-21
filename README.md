@@ -3,7 +3,9 @@
 <h4 align="center">An open and transparent Tool, designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
-  <a href="https://discord-avatar.com/en/user/874867657323712534">My discord ID</a>
+  <a href="https://discord-avatar.com/en/user/874867657323712534">My Discord ID</a>
+  •
+  <a href="https://discord.gg/G3CaBdqk7b" target="_blank">Discord</a>
   •
   <a href="https://github.com/SofiaTheRabbit905" target="_blank">Github</a>
 </p>
