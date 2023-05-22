@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/SofiaTheRabbit905"><img src="https://github.com/SofiaTheRabbit905/WG.Optimizer/assets/132106663/50b1a492-15ef-42a9-a55f-003e02df230f" alt="WG" width="900" style="border-radius: 30px"></a>
-<h4 align="center">An open and transparent Tool, designed to optimize performance, privacy and stability.</h4>
+<h4 align="center">designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
   <a href="https://discord-avatar.com/en/user/874867657323712534">My Discord ID</a>
