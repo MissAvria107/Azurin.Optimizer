@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/SofiaTheRabbit905"><img src="https://github.com/SofiaTheRabbit905/WG.Optimizer/assets/132106663/50b1a492-15ef-42a9-a55f-003e02df230f" alt="WG" width="900" style="border-radius: 30px"></a>
+  <a href="https://github.com/SofiaTheRabbit905"><img src="https://github.com/SofiaTheRabbit905/WG.Optimizer/assets/132106663/50b1a492-15ef-42a9-a55f-003e02df230f" alt="Azure" width="900" style="border-radius: 30px"></a>
 <h4 align="center">designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
@@ -10,10 +10,10 @@
   <a href="https://github.com/SofiaTheRabbit905" target="_blank">Github</a>
 </p>
 
-## 🤔 **What is WG Optimizer?**
+## 🤔 **What is Azure Optimizer?**
 A batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and higher fps.
 
-## 🤔 **Why WG Optimizer?**
+## 🤔 **Why Azure Optimizer?**
 
 ### 🚀 More performance
 
