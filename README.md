@@ -10,12 +10,10 @@
   <a href="https://github.com/SofiaTheRabbit905" target="_blank">Github</a>
 </p>
 
-## 🤔 What is Azure Optimizer?
+### 🤔 What is Azure Optimizer?
 A batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and higher fps.
 
-## 🤔 Why Azure Optimizer?
-
-## 🚀 More performance
+### 🚀 More performance
 
 - Increase Windows performance
 - Better input
@@ -29,7 +27,7 @@ There are people who use random tweaks, their windows break and encounter errors
 People who share batches, they do not do any research and put random tweaks in a batch (our experience).
 Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
-## ✅ Tweak list
+### ✅ Tweak list
 - Windows
 - internet
 - Services
