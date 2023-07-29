@@ -1,91 +1,44 @@
 <h1 align="center">
-  <br>
-  <a href="http://www.builtbybel.com"><img src="https://github.com/builtbybel/bloatbox/blob/master/src/Bloatbox/bloatbox.ico" alt="Bloatbox" width="200"></a>
-  <br>
-  Bloatbox
-  <br>
-</h1>
-
-<h3 align="center">☑️ Goodbye, Bloatware!</h3>
+  <a href="https://github.com/SofiaTheRabbit905"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132106663/256994875-cfeef0ae-91a2-431d-908d-5c1f792b1422.jpg" alt="Azure" width="900" style="border-radius: 30px"></a>
+<h4 align="center">designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
-<a href="https://github.com/builtbybel/bloatbox/releases/latest" target="_blank">
-<img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square" />
-</a>
-	
-<a href="https://github.com/builtbybel/bloatbox/releases" target="_blank">
-<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/bloatbox/total.svg?style=flat-square" />
-</a>
-
-<a href="https://github.com/builtbybel/bloatbox/commits/master">
-<img src="https://img.shields.io/github/last-commit/builtbybel/bloatbox.svg?style=flat-square&logo=github&logoColor=white"
-alt="GitHub last commit">
-<a href="https://github.com/builtbybel/bloatbox/issues">
-<img src="https://img.shields.io/github/issues-raw/builtbybel/bloatbox.svg?style=flat-square&logo=github&logoColor=white"
-alt="GitHub issues">   
-  
+  <a href="https://discord-avatar.com/en/user/874867657323712534">My Discord ID</a>
+  •
+  <a href="https://discord.gg/G3CaBdqk7b" target="_blank">Discord</a>
+  •
+  <a href="https://github.com/SofiaTheRabbit905" target="_blank">Github</a>
 </p>
 
-<p align="center">
-  <a href="#about">About</a> •
-  <a href="#download">Download</a> •
-  <a href="#community-package">Community package</a> •
-  <a href="#credits">Credits</a>
-</p>
+## 🤔 What is Azure Optimizer?
+A batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and higher fps.
 
-![screenshot](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox.png)
+## 🤔 Why Azure Optimizer?
 
-## About
+## 🚀 More performance
 
-I know there are a thousand ways to uninstall modern Windows 10 apps. Here is the One Thousand and One with Bloatbox!
-This was intended as a small extension for my app [Privatezilla](https://github.com/builtbybel/privatezilla) to uninstall specific apps. 
-Since I didn't want to bloat Privatezilla unnecessarily (those who know me know that I am a friend of small apps and lean code), I have now made this available as a standalone app. 
+- Increase Windows performance
+- Better input
+- Less internet latency
+- Less Windows latency
+- lower lag and higher fps
 
-This code is based on parts of this nice project from [ConditionalException](https://github.com/ConditionalException/Windows10Privacy). Some inspiration has also flowed from this ugly guy [AppManager by Microsoft](https://www.microsoft.com/p/app/9n8b6qf719pt) but on Windows Forms :smirk:
 
-## Download
+## 🛡️ Safe
+There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
+People who share batches, they do not do any research and put random tweaks in a batch (our experience)
+Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
-- (Latest release) [Download](https://github.com/builtbybel/bloatbox/releases)
-- (Mirror on my site) [Download](https://www.builtbybel.com/bloatbox)
-
-## Community package
-The community package for Bloatbox adds support for several advanced scripting features based upon PowerShell, e.g.
-- Reinstall of all built-in apps
-- Removal of specific pre-installed apps
-- Uninstall of OneDrive 
-- Unpinning Startmenu tiles 
-- Disable of Windows Defender (NOT recommended! I can highly recommend using Windows Defender on consumer versions of Windows 10)
-- Blocking telemetry via firewall and host files. Rules are provided by [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
-			  
-#### Check also the [Marketplace for new script files](https://github.com/builtbybel/bloatbox/tree/master/marketplace)
-Script files provided for [Privatezilla](https://github.com/builtbybel/privatezilla) or my older app SharpApp are fully compatible with Bloatbox. You will find some on my site [here](https://www.builtbybel.com/marketplace)
-
-All scripts included to the latest package can be viewed [here](https://github.com/builtbybel/bloatbox/tree/master/marketplace)
-
-### How-to Install
-* **[Download](https://github.com/builtbybel/bloatbox/blob/master/marketplace/bloatbox_pkg-EXTRACT_FIRST.zip?raw=true)** the latest `bloatbox_pkg.zip` file.
-* **Extract the package** to Bloatbox installation directory
-* **Restart Bloatbox**
-
-### Intro of community package after Installing
-
-![community-package](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox-pkg.gif)
-
-#### This feature is only supported by Bloatbox version 0.14 and higher!
-
-## Credits
-
-This project is partly based upon 
-
-- https://github.com/ConditionalException/Windows10Privacy
-
-This software uses the following packages:
-
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
-- [Icon by FFra](https://www.deviantart.com/ffra/art/MAXIMAL-Icons-Updated-387287801)
-
----
-
-> [builtbybel.com](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
-> GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
-> Twitter [@builtbybel](https://twitter.com/builtbybel)
+## ✅ Tweak list
+- Windows
+- internet
+- Services
+- Drivers
+- Advance game booster
+- GPU
+- CPU
+- Timer Resolution
+- Power Plan
+- DNS
+- Hosts file
+- Qos Tweaks
