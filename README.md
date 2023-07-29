@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/SofiaTheRabbit905"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132106663/256990762-7724398b-e67a-473d-a233-79b17f3246e1.jpg" alt="Azure" width="900" style="border-radius: 30px"></a>
+  <a href="https://github.com/SofiaTheRabbit905"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132106663/256994875-cfeef0ae-91a2-431d-908d-5c1f792b1422.jpg" alt="Azure" width="900" style="border-radius: 30px"></a>
 <h4 align="center">designed to optimize performance, privacy and stability.</h4>
 
 <p align="center">
