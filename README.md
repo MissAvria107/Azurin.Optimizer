@@ -1,7 +1,5 @@
 <h1 align="center">
   <a href="https://github.com/SofiaTheRabbit905"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/132106663/256994875-cfeef0ae-91a2-431d-908d-5c1f792b1422.jpg" alt="Azure" width="900" style="border-radius: 30px"></a>
-<h4 align="center">designed to optimize performance, privacy and stability.</h4>
-
 <p align="center">
   <a href="https://discord-avatar.com/en/user/874867657323712534">My Discord ID</a>
   •
