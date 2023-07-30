@@ -32,7 +32,9 @@ alt="GitHub issues">
   <a href="#how-to-use">How to use</a>
 </p>
 
+<p align="center">
 ![screenshot](https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure%20Optimizer.png)
+</p>
 
 ## About
 
