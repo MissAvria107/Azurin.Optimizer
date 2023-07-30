@@ -23,9 +23,9 @@ A batch file that has been tried to have the best and safest tweaks to optimize 
 
 
 ### 🛡️ Safe
-#### There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
-#### People who share batches, they do not do any research and put random tweaks in a batch (our experience)
-#### Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
+ There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
+ People who share batches, they do not do any research and put random tweaks in a batch (our experience)
+ Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
 ### ✅ Tweak list
 - Windows
