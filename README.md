@@ -32,7 +32,7 @@ alt="GitHub issues">
   <a href="#how-to-use">How to use</a>
 </p>
 
-![screenshot](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox.png)
+![screenshot](https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure%20Optimizer.png)
 
 ## About
 
