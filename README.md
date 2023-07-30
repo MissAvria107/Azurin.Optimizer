@@ -70,7 +70,7 @@ system response so that you don't waste your time
 **Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.**
 
 ### How to use
-* **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer 5.6 .zip` file.
+* **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer 5.6.zip` file.
 * **Extract the zip** copy and paste files inside of Azure Optimizer 5.6 folder to the Windows drive
 * **Run Azure Optimizer 5.6.Bat File as admin**
 
@@ -81,4 +81,4 @@ system response so that you don't waste your time
 ---
 
 > [My Discord ID](https://discord-avatar.com/en/user/874867657323712534) &nbsp;&middot;&nbsp;
-> [Discord](https://discord.gg/G3CaBdqk7b) &nbsp;&middot;&nbsp;
+> [Discord](https://discord.gg/G3CaBdqk7b)
