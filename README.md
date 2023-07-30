@@ -10,7 +10,7 @@
   <a href="https://github.com/SofiaTheRabbit905" target="_blank">Github</a>
 </p>
 
-## 🤔 What is Azure Optimizer?
+### 🤔 What is Azure Optimizer?
 A batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and higher fps.
 
 ### 🚀 More performance
