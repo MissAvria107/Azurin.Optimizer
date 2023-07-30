@@ -76,4 +76,4 @@ All scripts included to the latest package can be viewed [here](https://github.c
 ---
 
 > [My Discord ID](https://discord-avatar.com/en/user/874867657323712534) &nbsp;&middot;&nbsp;
-> [Discord] (https://discord.gg/G3CaBdqk7b) &nbsp;&middot;&nbsp;
+> [Discord](https://discord.gg/G3CaBdqk7b) &nbsp;&middot;&nbsp;
