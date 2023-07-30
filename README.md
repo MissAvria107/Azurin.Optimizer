@@ -68,9 +68,9 @@ People who share batches, they do not do any research and put random tweaks in a
 Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
 ### How-to Install
-* **[Download](https://github.com/builtbybel/bloatbox/blob/master/marketplace/bloatbox_pkg-EXTRACT_FIRST.zip?raw=true)** the latest `bloatbox_pkg.zip` file.
-* **Extract the package** to Bloatbox installation directory
-* **Restart Bloatbox**
+* **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer.zip` file.
+* **Extract the zip** copy files inside of folder to Windows drive
+* **Run Bat File as admin**
 
 ### Intro of community package after Installing
 
