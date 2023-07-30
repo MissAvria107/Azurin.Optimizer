@@ -71,7 +71,7 @@ Don't forget that all projects in the world are not perfect and have problems, t
 * **Extract the zip** copy past files inside of folder in the Windows drive
 * **Run Bat File as admin**
 
-![community-package](https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure.Optimizer.mp4)
+![How-to-use](https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/How%20to%20use%20Azure%20Optimizer.gif)
 
 #### Nobody responsible for any damages!
 
