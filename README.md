@@ -48,20 +48,20 @@ system response so that you don't waste your time
 ## Tweak list
 
 - Windows
+- Advance game booster
+- Timer Resolution
 - internet
+- Qos Tweaks
+- Hosts file
+- DNS
 - Services
 - Drivers
-- GPU
 - CPU
-- Timer Resolution
 - Power Plan
-- DNS
-- Hosts file
-- Qos Tweaks
+- GPU
 - windows cleanup
 - browser cleanup
-- debloater
-- Advance game booster
+- Windows debloater
 			  
 ### Safe
 
