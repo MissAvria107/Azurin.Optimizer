@@ -32,6 +32,10 @@ alt="GitHub issues">
   <a href="#how-to-use">How to use</a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/blob/main/Azurin%20Optimizer.png" />
+</p>
+
 ## About
 
 A batch file that aims to improve FPS, reduce input lag and optimize network performance for games and daily uses to have a better 
