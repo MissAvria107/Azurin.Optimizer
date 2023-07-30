@@ -1,27 +1,27 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/SofiaTheRabbit905/azurin.Optimizer/blob/main/Logo.png" alt="Bloatbox" width="200"></a>
+  <img src="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/blob/main/Logo.png" alt="Azurin" width="200"></a>
   <br>
-  azurin Optimizer
+  Azurin Optimizer
   <br>
 </h1>
 
 <h3 align="center">☑️ Goodbye, lag!</h3>
 
 <p align="center">
-<a href="https://github.com/SofiaTheRabbit905/azurin.Optimizer/releases/latest" target="_blank">
-<img alt="Latest GitHub release" src="https://img.shields.io/github/release/SofiaTheRabbit905/azurin.Optimizer.svg?style=flat-square" />
+<a href="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/SofiaTheRabbit905/Azurin.Optimizer.svg?style=flat-square" />
 </a>
 	
-<a href="https://github.com/SofiaTheRabbit905/azurin.Optimizer/releases" target="_blank">
-<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/SofiaTheRabbit905/azurin.Optimizer/total.svg?style=flat-square" />
+<a href="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/SofiaTheRabbit905/Azurin.Optimizer/total.svg?style=flat-square" />
 </a>
 
-<a href="https://github.com/SofiaTheRabbit905/azurin.Optimizer/commits/master">
-<img src="https://img.shields.io/github/last-commit/SofiaTheRabbit905/azurin.Optimizer.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/commits/master">
+<img src="https://img.shields.io/github/last-commit/SofiaTheRabbit905/Azurin.Optimizer.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
-<a href="https://github.com/SofiaTheRabbit905/azurin.Optimizer/issues">
-<img src="https://img.shields.io/github/issues-raw/SofiaTheRabbit905/azurin.Optimizer.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/issues">
+<img src="https://img.shields.io/github/issues-raw/SofiaTheRabbit905/Azurin.Optimizer.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
   
 </p>
@@ -33,7 +33,7 @@ alt="GitHub issues">
 </p>
 
 <p align="center">
-  <img src="https://github.com/SofiaTheRabbit905/azurin.Optimizer/blob/main/azurin%20Optimizer.png" />
+  <img src="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/blob/main/Azurin%20Optimizer.png" />
 </p>
 
 ## About
@@ -43,7 +43,7 @@ system response so that you don't waste your time
 
 ## Download
 
-- (Latest release) [Download](https://github.com/SofiaTheRabbit905/azurin.Optimizer/releases)
+- (Latest release) [Download](https://github.com/SofiaTheRabbit905/Azurin.Optimizer/releases)
 
 ## Tweak list
 
@@ -70,11 +70,11 @@ system response so that you don't waste your time
 **Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.**
 
 ### How to use
-* **[Download](https://github.com/SofiaTheRabbit905/azurin.Optimizer/releases)** the latest `azurin.Optimizer 5.6.zip` file.
-* **Extract the zip** copy and paste files inside of azurin Optimizer 5.6 folder to the Windows drive
-* **Run azurin Optimizer 5.6.Bat File as admin**
+* **[Download](https://github.com/SofiaTheRabbit905/Azurin.Optimizer/releases)** the latest `Azurin.Optimizer 5.6.zip` file.
+* **Extract the zip** copy and paste files inside of Azurin Optimizer 5.6 folder to the Windows drive
+* **Run Azurin Optimizer 5.6.Bat File as admin**
 
-![How-to-use](https://github.com/SofiaTheRabbit905/azurin.Optimizer/blob/main/How%20to%20use%20azurin%20Optimizer.gif)
+![How-to-use](https://github.com/SofiaTheRabbit905/Azurin.Optimizer/blob/main/How%20to%20use%20Azurin%20Optimizer.gif)
 
 #### Nobody responsible for any damages!
 
