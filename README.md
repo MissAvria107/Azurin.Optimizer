@@ -33,7 +33,7 @@ alt="GitHub issues">
 </p>
 
 <p align="center">
-https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure%20Optimizer.png
+  <img src="https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure%20Optimizer.png" />
 </p>
 
 ## About
@@ -58,9 +58,9 @@ A batch file that has been tried to have the best and safest tweaks to optimize 
 - DNS
 - Hosts file
 - Qos Tweaks
-- cleaning the windows
-- broswer cleanup
-- debloter
+- windows cleanup
+- browser cleanup
+- debloater
 			  
 ### Safe
 
@@ -69,9 +69,9 @@ People who share batches, they do not do any research and put random tweaks in a
 Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
 ### How to use
-* **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer.zip` file.
-* **Extract the zip** copy past files inside of folder in the Windows drive
-* **Run Bat File as admin**
+* **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer 5.6 .zip` file.
+* **Extract the zip** copy and paste files inside of Azure Optimizer 5.6 folder to the Windows drive
+* **Run Azure Optimizer 5.6.Bat File as admin**
 
 ![How-to-use](https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/How%20to%20use%20Azure%20Optimizer.gif)
 
