@@ -17,11 +17,11 @@
 <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/bloatbox/total.svg?style=flat-square" />
 </a>
 
-<a href="https://github.com/builtbybel/bloatbox/commits/master">
-<img src="https://img.shields.io/github/last-commit/builtbybel/bloatbox.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/SofiaTheRabbit905/Azure.Optimizer/commits/master">
+<img src="https://img.shields.io/github/last-commit/SofiaTheRabbit905/Azure.Optimizer.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
-<a href="https://github.com/builtbybel/bloatbox/issues">
-<img src="https://img.shields.io/github/issues-raw/builtbybel/bloatbox.svg?style=flat-square&logo=github&logoColor=white"
+<a href="https://github.com/SofiaTheRabbit905/Azure.Optimizer/issues">
+<img src="https://img.shields.io/github/issues-raw/SofiaTheRabbit905/Azure.Optimizer.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
   
 </p>
