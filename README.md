@@ -67,7 +67,7 @@ There are people who use random tweaks, their windows break and encounter errors
 People who share batches, they do not do any research and put random tweaks in a batch (our experience)
 Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
-### How-to Install
+### How-to use
 * **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer.zip` file.
 * **Extract the zip** copy past files inside of folder in the Windows drive
 * **Run Bat File as admin**
