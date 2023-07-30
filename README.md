@@ -38,7 +38,8 @@ alt="GitHub issues">
 
 ## About
 
-A batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and higher fps.
+A batch file that aims to improve FPS, reduce input lag and optimize network performance for games and daily uses to have a better 
+system response so that you don't waste your time
 
 ## Download
 
@@ -50,7 +51,6 @@ A batch file that has been tried to have the best and safest tweaks to optimize 
 - internet
 - Services
 - Drivers
-- Advance game booster
 - GPU
 - CPU
 - Timer Resolution
@@ -61,12 +61,13 @@ A batch file that has been tried to have the best and safest tweaks to optimize 
 - windows cleanup
 - browser cleanup
 - debloater
+- Advance game booster
 			  
 ### Safe
 
-There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
-People who share batches, they do not do any research and put random tweaks in a batch (our experience)
-Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
+**There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.**
+**People who share batches, they do not do any research and put random tweaks in a batch (our experience)**
+**Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.**
 
 ### How to use
 * **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer 5.6 .zip` file.
