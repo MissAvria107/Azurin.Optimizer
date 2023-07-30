@@ -69,14 +69,14 @@ Don't forget that all projects in the world are not perfect and have problems, t
 
 ### How-to Install
 * **[Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)** the latest `Azure.Optimizer.zip` file.
-* **Extract the zip** copy files inside of folder to Windows drive
+* **Extract the zip** copy past files inside of folder in the Windows drive
 * **Run Bat File as admin**
 
-### Intro of community package after Installing
+### If you don't like any risk, do not use services and GPU tweaks
 
 ![community-package](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox-pkg.gif)
 
-#### This feature is only supported by Bloatbox version 0.14 and higher!
+#### Nobody responsible for any damages!
 
 ---
 
