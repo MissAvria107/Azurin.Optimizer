@@ -73,19 +73,7 @@ All scripts included to the latest package can be viewed [here](https://github.c
 
 #### This feature is only supported by Bloatbox version 0.14 and higher!
 
-## Credits
-
-This project is partly based upon 
-
-- https://github.com/ConditionalException/Windows10Privacy
-
-This software uses the following packages:
-
-- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
-- [Icon by FFra](https://www.deviantart.com/ffra/art/MAXIMAL-Icons-Updated-387287801)
-
 ---
 
-> [builtbybel.com](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
-> GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
-> Twitter [@builtbybel](https://twitter.com/builtbybel)
+> [My Discord ID](https://discord-avatar.com/en/user/874867657323712534) &nbsp;&middot;&nbsp;
+> [Discord] (https://discord.gg/G3CaBdqk7b) &nbsp;&middot;&nbsp;
