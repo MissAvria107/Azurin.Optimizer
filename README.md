@@ -29,7 +29,7 @@ alt="GitHub issues">
 <p align="center">
   <a href="#about">About</a> •
   <a href="#download">Download</a> •
-  <a href="#How to use">How to use</a>
+  <a href="#how-to-use">How to use</a>
 </p>
 
 ![screenshot](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox.png)
@@ -42,7 +42,7 @@ A batch file that has been tried to have the best and safest tweaks to optimize 
 
 - (Latest release) [Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)
 
-## ✅ Tweak list
+## Tweak list
 
 - Windows
 - internet
@@ -60,7 +60,7 @@ A batch file that has been tried to have the best and safest tweaks to optimize 
 - broswer cleanup
 - debloter
 			  
-### 🛡️ Safe
+### Safe
 
 There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
 People who share batches, they do not do any research and put random tweaks in a batch (our experience)
