@@ -33,7 +33,7 @@ alt="GitHub issues">
 </p>
 
 <p align="center">
-![screenshot](https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure%20Optimizer.png)
+https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure%20Optimizer.png
 </p>
 
 ## About
