@@ -71,8 +71,6 @@ Don't forget that all projects in the world are not perfect and have problems, t
 * **Extract the zip** copy past files inside of folder in the Windows drive
 * **Run Bat File as admin**
 
-### If you don't like any risk, do not use services and GPU tweaks
-
 ![community-package](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox-pkg.gif)
 
 #### Nobody responsible for any damages!
