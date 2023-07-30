@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h3 align="center">☑️ Goodbye, Bloatware!</h3>
+<h3 align="center">☑️ Goodbye, lag!</h3>
 
 <p align="center">
 <a href="https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases/latest" target="_blank">
@@ -37,30 +37,35 @@ alt="GitHub issues">
 
 ## About
 
-I know there are a thousand ways to uninstall modern Windows 10 apps. Here is the One Thousand and One with Bloatbox!
-This was intended as a small extension for my app [Privatezilla](https://github.com/builtbybel/privatezilla) to uninstall specific apps. 
-Since I didn't want to bloat Privatezilla unnecessarily (those who know me know that I am a friend of small apps and lean code), I have now made this available as a standalone app. 
-
-This code is based on parts of this nice project from [ConditionalException](https://github.com/ConditionalException/Windows10Privacy). Some inspiration has also flowed from this ugly guy [AppManager by Microsoft](https://www.microsoft.com/p/app/9n8b6qf719pt) but on Windows Forms :smirk:
+A batch file that has been tried to have the best and safest tweaks to optimize your Windows for games and daily uses so that you have less latency and higher fps.
 
 ## Download
 
-- (Latest release) [Download](https://github.com/builtbybel/bloatbox/releases)
-- (Mirror on my site) [Download](https://www.builtbybel.com/bloatbox)
+- (Latest release) [Download](https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases)
 
-## Community package
-The community package for Bloatbox adds support for several advanced scripting features based upon PowerShell, e.g.
-- Reinstall of all built-in apps
-- Removal of specific pre-installed apps
-- Uninstall of OneDrive 
-- Unpinning Startmenu tiles 
-- Disable of Windows Defender (NOT recommended! I can highly recommend using Windows Defender on consumer versions of Windows 10)
-- Blocking telemetry via firewall and host files. Rules are provided by [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
+## ✅ Tweak list
+
+- Windows
+- internet
+- Services
+- Drivers
+- Advance game booster
+- GPU
+- CPU
+- Timer Resolution
+- Power Plan
+- DNS
+- Hosts file
+- Qos Tweaks
+- cleaning the windows
+- broswer cleanup
+- debloter
 			  
-#### Check also the [Marketplace for new script files](https://github.com/builtbybel/bloatbox/tree/master/marketplace)
-Script files provided for [Privatezilla](https://github.com/builtbybel/privatezilla) or my older app SharpApp are fully compatible with Bloatbox. You will find some on my site [here](https://www.builtbybel.com/marketplace)
+### 🛡️ Safe
 
-All scripts included to the latest package can be viewed [here](https://github.com/builtbybel/bloatbox/tree/master/marketplace)
+There are people who use random tweaks, their windows break and encounter errors, and they also experience less performance and more lag. we created this project to keep others away from these problems.
+People who share batches, they do not do any research and put random tweaks in a batch (our experience)
+Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
 ### How-to Install
 * **[Download](https://github.com/builtbybel/bloatbox/blob/master/marketplace/bloatbox_pkg-EXTRACT_FIRST.zip?raw=true)** the latest `bloatbox_pkg.zip` file.
