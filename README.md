@@ -9,12 +9,12 @@
 <h3 align="center">☑️ Goodbye, Bloatware!</h3>
 
 <p align="center">
-<a href="https://github.com/builtbybel/bloatbox/releases/latest" target="_blank">
-<img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/bloatbox.svg?style=flat-square" />
+<a href="https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases/latest" target="_blank">
+<img alt="Latest GitHub release" src="https://img.shields.io/github/release/SofiaTheRabbit905/Azure.Optimizer.svg?style=flat-square" />
 </a>
 	
-<a href="https://github.com/builtbybel/bloatbox/releases" target="_blank">
-<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/bloatbox/total.svg?style=flat-square" />
+<a href="https://github.com/SofiaTheRabbit905/Azure.Optimizer/releases" target="_blank">
+<img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/SofiaTheRabbit905/Azure.Optimizer/total.svg?style=flat-square" />
 </a>
 
 <a href="https://github.com/SofiaTheRabbit905/Azure.Optimizer/commits/master">
