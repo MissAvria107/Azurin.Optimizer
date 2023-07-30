@@ -71,7 +71,7 @@ Don't forget that all projects in the world are not perfect and have problems, t
 * **Extract the zip** copy past files inside of folder in the Windows drive
 * **Run Bat File as admin**
 
-![community-package](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox-pkg.gif)
+![community-package](https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Azure.Optimizer.mp4)
 
 #### Nobody responsible for any damages!
 
