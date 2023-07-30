@@ -29,7 +29,7 @@ alt="GitHub issues">
 <p align="center">
   <a href="#about">About</a> •
   <a href="#download">Download</a> •
-  <a href="#community-package">How to use</a>
+  <a href="#How to use">How to use</a>
 </p>
 
 ![screenshot](https://github.com/builtbybel/bloatbox/blob/master/assets/bloatbox.png)
