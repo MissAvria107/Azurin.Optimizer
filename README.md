@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/SofiaTheRabbit905/Azure.Optimizer/blob/main/Logo.png" alt="Bloatbox" width="200"></a>
   <br>
-  Bloatbox
+  Azure Optimizer
   <br>
 </h1>
 
