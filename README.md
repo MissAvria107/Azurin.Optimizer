@@ -36,7 +36,7 @@ alt="GitHub issues">
   <img src="https://github.com/SofiaTheRabbit905/Azurin.Optimizer/blob/main/Azurin%20Optimizer.png" />
 </p>
 
-## About
+## What is Azure Optimizer?
 
 A batch file that aims to improve FPS, reduce input lag and optimize network performance for games and daily uses to have a better 
 system response so that you don't waste your time
