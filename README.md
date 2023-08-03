@@ -70,9 +70,9 @@ People who share batches, they do not do any research and put random tweaks in a
 Don't forget that all projects in the world are not perfect and have problems, that will be solved with the passage of time, we are trying to find these problems, also if you have a problem, be sure to report it, it makes us happy.
 
 ### How to use
-* **[Download](https://github.com/SofiaTheRabbit905/Azurin.Optimizer/releases)** the latest `Azurin.Optimizer 5.6.zip` file.
-* **Extract the zip** copy and paste files inside of Azurin Optimizer 5.6 folder to the Windows drive
-* **Run Azurin Optimizer 5.6.Bat File as admin**
+* **[Download](https://github.com/SofiaTheRabbit905/Azurin.Optimizer/releases)** the latest `Azurin.Optimizer 5.7.zip` file.
+* **Extract the zip** copy and paste files inside of Azurin Optimizer 5.7 folder to the Windows drive
+* **Run Azurin Optimizer 5.7.Bat File as admin**
 
 ![How-to-use](https://github.com/SofiaTheRabbit905/Azurin.Optimizer/blob/main/How%20to%20use%20Azurin%20Optimizer.gif)
 
