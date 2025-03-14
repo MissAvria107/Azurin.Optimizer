@@ -59,6 +59,8 @@ system response so that you don't waste your time
 - CPU
 - Power Plan
 - GPU
+- Directx
+- HDD SSD NVME
 - windows cleanup
 - browser cleanup
 - Windows debloater
@@ -74,7 +76,7 @@ Don't forget that all projects in the world are not perfect and have problems, t
 * **Extract the zip** copy and paste files inside of Azurin Optimizer 5.7 folder to the Windows drive
 * **Run Azurin Optimizer 5.7.Bat File as admin**
 
-![How-to-use](https://github.com/SofiaTheRabbit905/Azurin.Optimizer/blob/main/How%20to%20use%20Azurin%20Optimizer.gif)
+![How-to-use](https://github.com/MissAvria107/Azurin.Optimizer/blob/main/How%20to%20use%20Azurin%20Optimizer.gif)
 
 #### Nobody responsible for any damages!
 
